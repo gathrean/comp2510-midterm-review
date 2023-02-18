@@ -5,53 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcec10a6-3f51-402f-846c-58eed4f3e00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/communication.diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/multiple.drawio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sequence.diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/single.class.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Advanced_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Advanced_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Advanced_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Advanced_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Advanced_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Advanced_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_07_arm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_07_foot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_07_leg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_07_robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Intermediate_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Intermediate_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Intermediate_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Intermediate_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Intermediate_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Intermediate_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Intermediate_06_VolleyballTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Intermediate_06_volleyBallPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/answers/Basic_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/answers/Basic_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/answers/Basic_02_vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/answers/Basic_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/midterm/questions/Basic_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +24,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Midterm" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,21 +64,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/paul_bucci/IdeaProjects/Midterm/Midterm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/ean/Documents/CST/comp2522/Labs/comp2510-midterm-review",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.bcit.midterm.questions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/bcit/midterm/answers" />
       <recent name="C:\Users\paul_bucci\IdeaProjects\Midterm\Midterm\img" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.bcit.midterm.answers" />
     </key>
   </component>
   <component name="RunManager">
